@@ -1,0 +1,25 @@
+# --- Identity ---
+id: "39515ff4-f89c-4e93-9761-7e73fb7433fa"
+name: "methodology-assessment"
+display_name: "Methodology Assessment"
+description: "Evaluates research methodology quality and appropriateness"
+version: "1.0.0"
+engine: ">=0.1.0"
+author:
+  name: "skrptiq"
+  url: "https://hub.skrptiq.ai"
+licence: "MIT"
+repository: "https://github.com/skrpts/hub-shared-methodology-assessment"
+category: "shared"
+tags:
+  - "shared"
+  - "skill"
+contents:
+  skills: 1
+  prompts: 0
+  workflows: 0
+  services: 0
+  sources: 0
+  documents: 0
+  assets: 0
+  total: 1
