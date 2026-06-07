@@ -1,9 +1,9 @@
 # --- Identity ---
-id: "39515ff4-f89c-4e93-9761-7e73fb7433fa"
+id: "6aba7d87-314e-4d15-9635-e971bcdb08fe"
 name: "methodology-assessment"
 display_name: "Methodology Assessment"
 description: "Evaluates research methodology quality and appropriateness"
-version: "1.0.0"
+version: "1.0.1"
 engine: ">=0.1.0"
 author:
   name: "skrptiq"
